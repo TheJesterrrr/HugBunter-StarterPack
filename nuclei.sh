@@ -66,4 +66,4 @@ else
     echo "Input tidak valid! Instalasi Nuclei dibatalkan."
 fi
 
-echo "Skrip selesai dijalankan."
+echo "Program Berakhir..."
